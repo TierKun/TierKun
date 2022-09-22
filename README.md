@@ -10,7 +10,7 @@
 ---------
 
 ### :page_with_curl: I'm learning javascript, Python, C++, html and css
-
+align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=C" />
