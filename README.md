@@ -2,19 +2,19 @@
 
 
 <p align="center">
-<img align="center" height="auto" src="https://github.com/Shuichi126/Shuichi126/blob/main/img/img.jpg"/>
+<img align="center" height="auto" src="https://github.com/TierKun/TierKun/blob/main/img/img.jpg"/>
 </P>
 
 ###
 ---------
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282130301023)
-[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.me.erick126/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](http://erikpermana126@gmail.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282134580805)
+[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tierkunn_/)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](http://tiersinyo177@gmail.com/)
 
 ---------
 
-### :page_with_curl: I'm learning javascript, html and css
+### :page_with_curl: I'm learning javascript, Python, html and css
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -25,8 +25,8 @@
 ---------
 
 ### My Statistic
-![github stats](https://github-readme-stats.vercel.app/api?username=Shuichi126&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuichi126&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=TierKun&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=TierKun&layout=compact&theme=nightowl)
 
 ---------
 
@@ -35,11 +35,11 @@
 
 var rik = `
 
-Name               : Erik
-Age                : 18
+Name               : Tier Sinyo
+Age                : 15
 Gender             : Male
 From               : indonesian 🇮🇩
-Currently learning : Js, html, css
+Currently learning : Js, Python, html, css
 `
 return rik
 ```
