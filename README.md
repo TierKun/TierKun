@@ -2,11 +2,11 @@
 
 ###
 ---------
-<p align="center">
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282134580805)
 [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tierkunn_/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](http://tiersinyo177@gmail.com/)
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](http://tiersinyo177@gmail.com/)</p>
+
 ---------
 
 ### :page_with_curl: I'm learning javascript, Python, C++, html and css
