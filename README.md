@@ -14,11 +14,12 @@
 
 ---------
 
-### :page_with_curl: I'm learning javascript, Python, html and css
+### :page_with_curl: I'm learning javascript, Python, C++, html and css
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=C" />
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
 </p>
@@ -40,7 +41,8 @@ Name               : Tier Sinyo
 Age                : 15
 Gender             : Male
 From               : indonesian 🇮🇩
-Currently learning : Js, Python, html, css
+Currently learning : Js, Python, C++, html, css
+Project learning   : ChatBot, Raspberry Pi, IoT(Arduino, NodeMcu, Xbee)
 `
 return Tierz
 ```
