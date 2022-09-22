@@ -33,7 +33,7 @@
 ### My Bio
 ```js
 
-var rik = `
+var Tierz = `
 
 Name               : Tier Sinyo
 Age                : 15
@@ -41,5 +41,5 @@ Gender             : Male
 From               : indonesian 🇮🇩
 Currently learning : Js, Python, html, css
 `
-return rik
+return Tierz
 ```
