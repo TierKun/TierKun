@@ -4,11 +4,10 @@
 ---------
 
 <p align='center'>
-
    <a href="https://wa.me/6282134580805"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/tierkunn_"><img height="30" src="https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
    <a href="sinyo5666@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</P>
+</p>
 
 ---------
 
