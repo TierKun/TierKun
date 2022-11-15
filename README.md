@@ -9,6 +9,12 @@
    <a href="sinyo5666@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<!-- PROFILE VIEWS-->
+<p align="center">
+  <br />
+  <img src="https://gpvc.arturio.dev/tierkun" alt="tierkun" width="150px" height="30px">
+</p>
+
 ---------
 
 ### :page_with_curl: I'm learning javascript, Python, C++, html and css
